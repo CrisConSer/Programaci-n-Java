@@ -48,5 +48,5 @@ public static void main(String[] args) {
     }
     
     System.out.println("El " + dia + " a primera hora hay: " + materia);
-}
+    }
 }
